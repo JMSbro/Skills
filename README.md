@@ -6,3 +6,9 @@
 - C
 - Moo
 - HTML
+
+## Hasib's Skills
+
+- HTMl
+- GO
+- C++
