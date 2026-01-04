@@ -20,3 +20,5 @@
 - Cloud Khor
 
 ## Amra code kortasi
+
+## Amra git o kortasi
